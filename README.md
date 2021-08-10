@@ -17,9 +17,8 @@ Date - August 2021
 Includes the new Bootstrap 5 Version
 
 ## Test Website
-Feel free to test First version
 
-https://p-schub.lima-city.de/Bookmarker/
+[Feel free to test this version on Github Pages](https://pate87.github.io/Bookmarker/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)# Bookmarker
